@@ -11,3 +11,11 @@
 - [Aula 04 - Convertendo tipos de dados](01-Introducao/aula04.py)
 - [Aula 05 - Função Input](01-Introducao/aula05.py)
 ---
+## 02 - Tipos de Operadores
+
+- [Aula 06 - Operadores Aritméticos](02-Tipos_de_Operadores/aula06.py)
+- [Aula 07 - Operadores de Comparação](02-Tipos_de_Operadores/aula07.py)
+- [Aula 08 - Operadores Lógicos](02-Tipos_de_Operadores/aula08.py)
+- [Aula 09 - Operadores de Associação](02-Tipos_de_Operadores/aula09.py)
+
+---
