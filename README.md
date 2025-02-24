@@ -34,5 +34,13 @@
 - [Aula 12 - Estrutura Condicional ternária](03-Condicionais_repeticao/aula12.py)
 - [Aula 13 - Estrutura de Repetição For](03-Condicionais_repeticao/aula13.py)
 - [Aula 14 - Estrutura de Repetição While](03-Condicionais_repeticao/aula14.py)
+</details>
 
-</details open>
+---
+
+<details open>
+    <summary>04 - Manipulando Strings</summary>
+
+- [Aula 15 - Trabalhando com Strings](04-Manipulando_strings/aula15.py)
+- [Aula 16 - Fatiamento de Strings](04-Manipulando_strings/aula16.py)
+</details>
