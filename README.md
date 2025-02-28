@@ -38,9 +38,22 @@
 
 ---
 
-<details open>
+<details>
     <summary>04 - Manipulando Strings</summary>
 
 - [Aula 15 - Trabalhando com Strings](04-Manipulando_strings/aula15.py)
 - [Aula 16 - Fatiamento de Strings](04-Manipulando_strings/aula16.py)
 </details>
+
+---
+
+<details open>
+    <summary>05 - Trabalhando com Funções</summary>
+
+- [Aula 17 - Criando as primeiras funções](05-Funcoes/aula17.py)
+- [Aula 18 - Retorno de Funções](05-Funcoes/aula18.py)
+- [Aula 19 - Parâmetros por posição](05-Funcoes/aula19.py)
+- [Aula 20 - Objetos de primeira classe](05-Funcoes/aula20.py)
+</details>
+
+---
