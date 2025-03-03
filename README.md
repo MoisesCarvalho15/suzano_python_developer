@@ -47,13 +47,26 @@
 
 ---
 
-<details open>
+<details>
     <summary>05 - Trabalhando com Funções</summary>
 
 - [Aula 17 - Criando as primeiras funções](05-Funcoes/aula17.py)
 - [Aula 18 - Retorno de Funções](05-Funcoes/aula18.py)
 - [Aula 19 - Parâmetros por posição](05-Funcoes/aula19.py)
 - [Aula 20 - Objetos de primeira classe](05-Funcoes/aula20.py)
+</details>
+
+---
+
+<details open>
+    <summary>Coleções</summary>
+
+- #### Listas
+
+  - [Aula 21 - Criando listas](06-Colecoes/listas/aula21.py)
+  - [Aula 22 = Acesso e fatiamento de listas](06-Colecoes/listas/aula22.py)
+  - [Aula 23 - Iterando os valores e list comprehension](06-Colecoes/listas/aula23.py)
+  - [Aula 24 - Métodos de lista](06-Colecoes/listas/aula24.py)
 </details>
 
 ---
