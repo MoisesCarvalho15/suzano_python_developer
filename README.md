@@ -59,14 +59,18 @@
 ---
 
 <details open>
-    <summary>Coleções</summary>
+    <summary>06 - Coleções</summary>
 
 - #### Listas
-
   - [Aula 21 - Criando listas](06-Colecoes/listas/aula21.py)
   - [Aula 22 = Acesso e fatiamento de listas](06-Colecoes/listas/aula22.py)
   - [Aula 23 - Iterando os valores e list comprehension](06-Colecoes/listas/aula23.py)
   - [Aula 24 - Métodos de lista](06-Colecoes/listas/aula24.py)
+
+- #### Tuplas
+  - [Aula 25 - Criando e acessando tuplas](06-Colecoes/tuplas/aula25.py)
+  - [Aula 26 - Fatiamento e Iterando as tuplas](06-Colecoes/tuplas/aula26.py)
+  - [Aula 27 - Métodos em tuplas](06-Colecoes/tuplas/aula27.py)
 </details>
 
 ---
