@@ -71,6 +71,10 @@
   - [Aula 25 - Criando e acessando tuplas](06-Colecoes/tuplas/aula25.py)
   - [Aula 26 - Fatiamento e Iterando as tuplas](06-Colecoes/tuplas/aula26.py)
   - [Aula 27 - Métodos em tuplas](06-Colecoes/tuplas/aula27.py)
+
+- #### Conjuntos
+  - [Aula 28 - Como criar e acessar sets](06-Colecoes/conjuntos/aula28.py)
+  - [Aula 29 - Métodos e Iterando com sets](06-Colecoes/conjuntos/aula29.py)
 </details>
 
 ---
