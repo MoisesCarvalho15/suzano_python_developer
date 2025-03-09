@@ -75,6 +75,11 @@
 - #### Conjuntos
   - [Aula 28 - Como criar e acessar sets](06-Colecoes/conjuntos/aula28.py)
   - [Aula 29 - Métodos e Iterando com sets](06-Colecoes/conjuntos/aula29.py)
+
+- #### Dicionários
+  - [Aula 30 - Criando, Inserindo e consultando um dicionário](06-Colecoes/dicionario/aula30.py)
+  - [Aula 31 - Dicionário Aninhado e Iterando sobre Dicionário](06-Colecoes/dicionario/aula31.py)
+  - [Aula 32 - Métodos em Dicionário](06-Colecoes/dicionario/aula32.py)
 </details>
 
 ---
